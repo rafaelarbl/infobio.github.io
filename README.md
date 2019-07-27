@@ -1,3 +1,3 @@
 # infobio.github.io
 O que é informática Biomédica?
-https://rafaelarbl.github.io/infobio.github.io
+https://rafaelarbl.github.io/infobiomed.github.io/
